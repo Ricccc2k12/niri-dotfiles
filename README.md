@@ -8,3 +8,4 @@
 | wofi | https://github.com/catppuccin/wofi | no |
 | niri | default config.kdl | yes |
 | nvim | https://github.com/catppuccin/nvim | no(t yet) |
+| wallpaper | https://files.orangc.net/media/walls-catppuccin-mocha/ | no. NOTE: it doesnt look like its on there anymore, uploaded it in the files |
